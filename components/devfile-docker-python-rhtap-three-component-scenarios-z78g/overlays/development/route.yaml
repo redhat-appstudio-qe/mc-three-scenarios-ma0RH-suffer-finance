@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: devfile-docker-python-rhtap-three-component-scenarios-z78g
     app.kubernetes.io/part-of: mc-three-scenarios
-  name: devfile-docker-python-rhtzklf
+  name: devfile-docker-python-rhtw00m
 spec:
   path: /
   port:
